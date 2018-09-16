@@ -110,7 +110,7 @@ if($page == 'add'){ ?>
                 <tr>
                     <td>Produk</td>
                     <td>:</td>
-                    <td><input type="text" name="nmBarang" id="nmBarang" required="required" autocomplete="off" /></td>
+                    <td><input type="text" name="nmBarang" id="nmBarang" value="Buah Kelapa Sawit" required="required" autocomplete="off" /></td>
                 </tr>
                 <tr>
                     <td>Customer</td>
