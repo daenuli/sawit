@@ -1,7 +1,7 @@
 <?php
 $server = "localhost";
 $username = "root";
-$password = "solichinsh79";
+$password = "123";
 $database = "sawit";
 
 // Koneksi dan memilih database di server
